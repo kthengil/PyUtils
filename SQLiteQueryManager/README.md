@@ -22,7 +22,7 @@ SQLiteQueryManager is a simple Python utility for managing SQLite databases. It 
 2. **Open Database**: Open an existing SQLite database by providing a file name.
 3. **Show Tables**: Display the tables in the currently opened database.
 4. **Run SQL**: Execute SQL queries on the currently opened database.
-4. **Run SQL**: Execute SQL queries on the currently opened database.
+4. **Help**: Show help menu.
 6. **Exit**: Exit the SQLiteQueryManager.
 
 ## How to Run
